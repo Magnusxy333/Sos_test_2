@@ -80,8 +80,8 @@ body{
   grid-template-columns: auto auto auto auto;
   place-items: center;
 
-  padding-left: 70px;
-  padding-right: 70px;
+  padding-left: 30px;
+  padding-right: 30px;
 }
 
 .areas-text{
